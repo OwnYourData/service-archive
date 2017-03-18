@@ -2,7 +2,7 @@
 
 APP="service-archive"
 APP_NAME="archive"
-IMAGE="oydeu/§APP"
+IMAGE="oydeu/$APP"
 
 # read commandline options
 REFRESH=false
