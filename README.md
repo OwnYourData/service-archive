@@ -1,4 +1,4 @@
-# <img src="https://github.com/OwnYourData/service-archiv/raw/master/assets/service.png" width="92"> Archiv Service
+# <img src="https://github.com/OwnYourData/service-archive/raw/master/assets/service.png" width="92"> Archiv Service
 Das Archiv Service stellt einen Docker Container mit Webserver zum Download von Archiv-Dateien zur Verfügung.    
 
 &nbsp;    
